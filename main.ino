@@ -3,8 +3,8 @@
 #include <FS.h>
 #include "index.h"
 
-const char* ssid = "HP 7496";
-const char* password = "google123";
+const char* ssid = "<CHANGE WIFI SSID>";
+const char* password = "<CHANGE WIFI PASSWORD>";
 
 ESP8266WebServer server(80);
 
